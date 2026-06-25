@@ -1,0 +1,4 @@
+baseURL = 'https://ksanolimo.github.io/'
+locale = 'en-us'
+title = 'Kai Sano Lim'
+theme = 'PaperMod'
