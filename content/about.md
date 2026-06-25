@@ -1,7 +1,3 @@
----
-title: "About"
-draft: false
----
 +++
 date = '2026-06-24T23:31:39-07:00'
 draft = false

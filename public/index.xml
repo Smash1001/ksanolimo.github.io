@@ -1,75 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Kai Sano Lim</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Kai Sano Lim</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 23:31:39 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Wed, 24 Jun 2026 23:31:39 -0700</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h1 id=&#34;kai-sano-lim&#34;&gt;Kai Sano Lim&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:ksano.limo.int@gmail.com&#34;&gt;ksano.limo.int@gmail.com&lt;/a&gt; | (215) 206-3173 | &lt;a href=&#34;https://www.linkedin.com/in/kai-s-lim&#34;&gt;linkedin.com/in/kai-s-lim&lt;/a&gt; | San Jose, CA&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;GLOBAL BUSINESS PERSPECTIVE | PHARMACEUTICAL MARKETING | CROSS-FUNCTIONAL OPERATIONS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Emerging international business professional with hands-on experience in pharmaceutical marketing, quality assurance (QA), and supply chain management. Focused on bridging cultural and functional gaps within international teams, delivering strategic insights through adaptability, strong interpersonal skills, and a collaborative mindset.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
-&lt;table&gt;
-	&lt;thead&gt;
-			&lt;tr&gt;
-					&lt;th&gt;&lt;/th&gt;
-					&lt;th&gt;&lt;/th&gt;
-					&lt;th&gt;&lt;/th&gt;
-			&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-			&lt;tr&gt;
-					&lt;td&gt;✔ Marketing Best Practices&lt;/td&gt;
-					&lt;td&gt;✔ Global Business Operations&lt;/td&gt;
-					&lt;td&gt;✔ Business Process Optimization&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;✔ Regulatory Compliance&lt;/td&gt;
-					&lt;td&gt;✔ Cross-Team Collaboration&lt;/td&gt;
-					&lt;td&gt;✔ Vendor and Supplier Assessment&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;✔ Intercultural Communication&lt;/td&gt;
-					&lt;td&gt;✔ Technical Communication&lt;/td&gt;
-					&lt;td&gt;✔ International Cultural Competence&lt;/td&gt;
-			&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;education-and-certification&#34;&gt;Education and Certification&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Bachelor of Science in Business Administration: International Business&lt;/strong&gt; — &lt;em&gt;Global Operations Management&lt;/em&gt;
-San Jose State University (SJSU) | August 2021 – May 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;+++
-date = &amp;lsquo;2026-06-24T23:31:39-07:00&amp;rsquo;
-draft = false
-title = &amp;lsquo;About&amp;rsquo;
-+++&lt;/p&gt;
-&lt;h2 id=&#34;hey-im-kai-&#34;&gt;Hey, I&amp;rsquo;m Kai 👋&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a 23-year-old recent graduate from &lt;strong&gt;San Jose State University&lt;/strong&gt;, where I studied
-&lt;strong&gt;International Business&lt;/strong&gt; with a specialization in &lt;strong&gt;Global Operations Management&lt;/strong&gt;.
-My professional interests sit at the intersection of global logistics, supply chain
-systems, and marketing — fields where strategy meets execution on a world stage.&lt;/p&gt;
-&lt;p&gt;As you explore this site, you&amp;rsquo;ll find a collection of projects spanning internships,
-coursework, and elected leadership roles. Whether it&amp;rsquo;s building vendor evaluation
-frameworks, supporting pharmaceutical marketing campaigns, or coordinating cross-border
-logistics, I bring the same approach to everything: show up, learn fast, and add value.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on </description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Wed, 24 Jun 2026 23:31:39 -0700</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h2 id=&#34;hey-im-kai-&#34;&gt;Hey, I&amp;rsquo;m Kai 👋&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a 23-year-old recent graduate from &lt;strong&gt;San Jose State University&lt;/strong&gt;, where I studied&#xA;&lt;strong&gt;International Business&lt;/strong&gt; with a specialization in &lt;strong&gt;Global Operations Management&lt;/strong&gt;.&#xA;My professional interests sit at the intersection of global logistics, supply chain&#xA;systems, and marketing — fields where strategy meets execution on a world stage.&lt;/p&gt;&#xA;&lt;p&gt;As you explore this site, you&amp;rsquo;ll find a collection of projects spanning internships,&#xA;coursework, and elected leadership roles. Whether it&amp;rsquo;s building vendor evaluation&#xA;frameworks, supporting pharmaceutical marketing campaigns, or coordinating cross-border&#xA;logistics, I bring the same approach to everything: show up, learn fast, and add value.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>http://localhost:1313/resume/</link>
+				<pubDate>Wed, 24 Jun 2026 23:31:39 -0700</pubDate>
+				<guid>http://localhost:1313/resume/</guid>
+				<description>&lt;h1 id=&#34;kai-sano-lim&#34;&gt;Kai Sano Lim&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:ksano.limo.int@gmail.com&#34;&gt;ksano.limo.int@gmail.com&lt;/a&gt; | (215) 206-3173 | &lt;a href=&#34;https://www.linkedin.com/in/kai-s-lim&#34;&gt;linkedin.com/in/kai-s-lim&lt;/a&gt; | San Jose, CA&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;GLOBAL BUSINESS PERSPECTIVE | PHARMACEUTICAL MARKETING | CROSS-FUNCTIONAL OPERATIONS&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Emerging international business professional with hands-on experience in pharmaceutical marketing, quality assurance (QA), and supply chain management. Focused on bridging cultural and functional gaps within international teams, delivering strategic insights through adaptability, strong interpersonal skills, and a collaborative mindset.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Marketing Best Practices&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Global Business Operations&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Business Process Optimization&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Regulatory Compliance&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Cross-Team Collaboration&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Vendor and Supplier Assessment&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Intercultural Communication&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ Technical Communication&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;✔ International Cultural Competence&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education-and-certification&#34;&gt;Education and Certification&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor of Science in Business Administration: International Business&lt;/strong&gt; — &lt;em&gt;Global Operations Management&lt;/em&gt;&#xA;San Jose State University (SJSU) | August 2021 – May 2026&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Home</title>
+				<link>http://localhost:1313/home/home/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/home/</guid>
+				<description>&lt;h1 id=&#34;kai-sano-lim&#34;&gt;Kai Sano Lim&lt;/h1&gt;&#xA;&lt;p&gt;Recent San Jose State University graduate building a career in global operations, supply chain, logistics, and marketing.&lt;/p&gt;&#xA;&lt;p&gt;I bring a global perspective, strong interpersonal skills, and hands-on experience across pharmaceutical marketing, quality assurance, and operational coordination. This site is a focused overview of my background, the work I have done, and the kind of teams I want to contribute to next.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-bring&#34;&gt;What I Bring&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cross-functional experience across marketing, QA, vendor evaluation, and logistics&lt;/li&gt;&#xA;&lt;li&gt;International exposure through study abroad and multilingual, multicultural environments&lt;/li&gt;&#xA;&lt;li&gt;A practical working style centered on execution, communication, and fast learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;current-focus&#34;&gt;Current Focus&lt;/h2&gt;&#xA;&lt;p&gt;I am actively pursuing early-career opportunities in:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
