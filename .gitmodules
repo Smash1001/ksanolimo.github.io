@@ -1,3 +1,7 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
+
+[submodule "temp-clone"]
+    path = temp-clone
+    url = https://github.com/Smash1001/ksanolimo.github.io.git
