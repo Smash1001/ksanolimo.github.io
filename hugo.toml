@@ -1,4 +1,4 @@
-baseURL = 'https://ksanolimo.github.io/'
+baseURL = 'https://ksanolimo2.github.io/'
 locale = 'en-us'
 title = 'Kai Sano Lim'
 
@@ -64,7 +64,7 @@ title = 'Kai Sano Lim'
 
 [params.seo.person]
   name = 'Kai Sano Lim'
-  url = 'https://ksanolimo.github.io/'
+  url = 'https://ksanolimo2.github.io/'
   sameAs = ['https://www.linkedin.com/in/kai-s-lim']
 
 [params.plugins]
