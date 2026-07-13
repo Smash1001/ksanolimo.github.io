@@ -1,6 +1,8 @@
 baseURL = 'https://smash1001.github.io/ksanolimo.github.io/'
 locale = 'en-us'
 title = 'Kai Sano Lim'
+canonifyURLs = true
+relativeURLs = false
 
 [pagination]
   pagerSize = 6
