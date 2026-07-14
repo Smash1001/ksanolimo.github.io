@@ -1,5 +1,6 @@
-/* You can customize theme styles here */
-@font-face {
+#main-content{
+    padding-top: 100px;
+}@font-face {
   font-family: 'adritian-icons';
   src: url('../fonts/adritian-icons.eot?62019798');
   src: url('../fonts/adritian-icons.eot?62019798#iefix') format('embedded-opentype'),
